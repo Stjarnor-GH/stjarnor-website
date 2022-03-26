@@ -9,4 +9,4 @@ Add all pages
 
 # Before Finish:
 
-Change page anchor (`<a>`) tags to local folder instead of `stjarnor-website-main`.
+Change page anchor (`<a>`) tags to local folder (`../file`) instead of `../stjarnor-website-main/file` for hosting.
