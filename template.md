@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Stjärnor - Home</title>
+    <title>Stjärnor</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <style>
@@ -84,15 +84,18 @@
         }
       }
     </style>
+    <script>
+      function button_action() {
+        document.getElementById('button1').innerHTML = (
+          <a href="https://www.stjarnor.co.uk/">Current Website</a>
+        );
+      }
+    </script>
+
   </head>
   <body>
     <div class="header">
       <h1>Stjärnor</h1>
-      <p>Home</p>
-    </div>
-    <div class="navbar">
-      <a href="../index.html">Home</a>
-      <a href="../about.html">About Us</a>
     </div>
   </body>
 </html>
