@@ -5,6 +5,6 @@ This repo is for me to code the website for Stjarnor
 Please read copyright.md in main
 
 # CONTACT
-hotbugharry@gmail.com
-Ashley シ#0699 (Discord)
+hotbugharry@gmail.com<br>
+Ashley シ#0699 (Discord)<br>
 jumpy72red (GitHub)
