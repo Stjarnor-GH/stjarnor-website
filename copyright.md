@@ -1,4 +1,4 @@
-This file is under standard copyright law, alongside the <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub terms of service:</a><br>
+This file is under standard copyright law, alongside the <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">GitHub terms of service</a>.<br>
 
 Information about copyright from the <a href="https://choosealicense.com/no-permission/">choosealicense website</a>:
 
