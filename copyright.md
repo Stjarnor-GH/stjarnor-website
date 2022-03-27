@@ -4,4 +4,4 @@ Information about copyright from the <a href="https://choosealicense.com/no-perm
 
 'If you find software that doesn’t have a license, that generally means you have no permission from the creators of the software to use, modify, or share the software. Although a code host such as GitHub may allow you to view and fork the code, this does not imply that you are permitted to use, modify, or share the software for any purpose.'<br>
 
-Please contact me if you wish to use any of the code. My email is <a href="mailto:hotbugharry@gmail.com">hotbugharry@gmail.com</a> or <a href="mailto:ashley@stjarnor.co.uk">ashley@stjarnor.co.uk</a>, and I have more contact links in <a href="../main/README.md">README.md</a> in main.<br>
+Please contact the head coder if you wish to use any of the code. Her email is <a href="mailto:ashley@stjarnor.co.uk">ashley@stjarnor.co.uk</a>, and there are more contact links in <a href="../main/README.md">README.md</a> in main.<br>
