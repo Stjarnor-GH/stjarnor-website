@@ -1,12 +1,13 @@
 # To Do:
 
-Add page bodies<br>
-Add images
+- Add page bodies<br>
+- Add images
+- Fix `portfolio-gigs.html`
 
 # Doing:
 
-Add all pages
+- Add all pages
 
 # Before Finish:
 
-Change page anchor (`<a>`) tags to local folder (`../file`) instead of `../stjarnor-website-main/file` for hosting.
+- Change page anchor (`<a>`) tags to local folder (`../file`) instead of `../stjarnor-website-main/file` for hosting.
