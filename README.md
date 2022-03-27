@@ -5,6 +5,7 @@ This repo is for me to code the website for Stjarnor
 Please read <a href="../main/copyright.md">copyright.md</a> in main
 
 # CONTACT
-hotbugharry@gmail.com<br>
+<a href="mailto:hotbugharry@gmail.com">hotbugharry@gmail.com</a><br>
+<a href="mailto:ashley@stjarnor.co.uk">ashley@stjarnor.co.uk</a><br>
 Ashley シ#0699 (Discord)<br>
 jumpy72red (GitHub)
