@@ -2,7 +2,7 @@
 
 - Add page bodies<br>
 - Add images
-- Fix `portfolio-gigs.html`
+- Fix `portfolio-gigs.html` header
 
 # Doing:
 
